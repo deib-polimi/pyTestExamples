@@ -1,0 +1,6 @@
+SimpleTest.SimpleTest.testadd2
+simpleAdd.add
+==
+assertNotEqual
+assertTrue
+assertIn

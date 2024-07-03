@@ -1,0 +1,5 @@
+simpleTestSuite.suite
+unittest.suite.TestSuite.__init__
+unittest.loader.makeSuite
+==
+addTest

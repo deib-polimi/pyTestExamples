@@ -1,0 +1,32 @@
+ﬂ
+SimpleTest2.SimpleTest2&
+setUpSimpleTest2.SimpleTest2.setUp,
+tearDown SimpleTest2.SimpleTest2.tearDown*
+testAddSimpleTest2.SimpleTest2.testAdd*
+testsubSimpleTest2.SimpleTest2.testsubunittest.case.TestCaseá
+SimpleTest.SimpleTest*
+testadd1SimpleTest.SimpleTest.testadd1*
+testadd2SimpleTest.SimpleTest.testadd2unittest.case.TestCaseë
+'SimpleTestMultipleAssertions.SimpleTest6
+test1-SimpleTestMultipleAssertions.SimpleTest.test16
+test2-SimpleTestMultipleAssertions.SimpleTest.test26
+test3-SimpleTestMultipleAssertions.SimpleTest.test36
+test4-SimpleTestMultipleAssertions.SimpleTest.test46
+test5-SimpleTestMultipleAssertions.SimpleTest.test56
+test6-SimpleTestMultipleAssertions.SimpleTest.test6unittest.case.TestCaseU
+OtherTest.OtherTest&
+testaddOtherTest.OtherTest.testaddunittest.case.TestCaseÀ
+testsimpleWebApp.AppTestCase+
+setUp"testsimpleWebApp.AppTestCase.setUp1
+tearDown%testsimpleWebApp.AppTestCase.tearDown3
+	test_home&testsimpleWebApp.AppTestCase.test_homeunittest.case.TestCaseü
+UFTest.UFTest
+test1UFTest.UFTest.test1
+test2UFTest.UFTest.test2
+test3UFTest.UFTest.test3
+test4UFTest.UFTest.test4unittest.case.TestCaseã
+testSimpleWebApp2.AppTestCase,
+setUp#testSimpleWebApp2.AppTestCase.setUp2
+tearDown&testSimpleWebApp2.AppTestCase.tearDown4
+	test_home'testSimpleWebApp2.AppTestCase.test_home:
+test_viewMap*testSimpleWebApp2.AppTestCase.test_viewMapunittest.case.TestCase
